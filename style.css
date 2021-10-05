@@ -1,0 +1,48 @@
+* {
+  margin: 1em;
+  padding: 1px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+}
+body {
+  width: 750px;
+  align-items: center;
+  margin: auto;
+  background-color: #182837;
+}
+#cuerpo {
+  background-color: white;
+}
+#titulo {
+  width: 700px;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+}
+#formulario {
+  width: 700px;
+  text-align: center;
+  align-content: center;
+  align-items: center;
+  margin: auto;
+  padding: 10px;
+}
+#tabla {
+  width: 700px;
+  text-align: center;
+  margin: auto;
+  padding: 5px;
+}
+#tabla td {
+  border: 1px solid #182837;
+}
+#tabla th {
+  border: 1px solid #182837;
+}
+#grafico {
+  border: 0px solid #182837;
+  width: 600px;
+  text-align: center;
+  margin: auto;
+  padding: 5px;
+}
